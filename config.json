@@ -2,7 +2,7 @@
     "localAddress":"0.0.0.0",
     "localPort": 1080,
     "serverAddress": "0.0.0.0",
-    "serverPort": 8388,
+    "serverPort": 80,
     "password": "a123456",
     "method": "aes-256-cfb"
 }
