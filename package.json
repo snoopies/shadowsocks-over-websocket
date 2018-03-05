@@ -30,4 +30,13 @@
     "throng": "^4.0.0",
     "ws": "^2.2.3"
   }
+  "now": {
+  "env": {
+  "METHOD": "aes-256-cfb",
+  "PASSWORD": "a123456",
+  "SERVER_ADDRESS": "0.0.0.0",
+  "SERVER_PORT": "80",
+  "PORT": 80
+}
+}
 }
