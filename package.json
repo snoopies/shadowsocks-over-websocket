@@ -35,7 +35,8 @@
   "METHOD": "aes-256-cfb",
   "PASSWORD": "a123456",
   "SERVER_ADDRESS": "0.0.0.0",
-  "SERVERPORT": 80
+  "SERVERPORT": 80,
+    "PORT": 80
 }
 }
 }
